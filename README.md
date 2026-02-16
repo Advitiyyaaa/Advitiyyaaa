@@ -1,7 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1500" height="400">
 
 # Hi there, I'm Advitiya Arya 👋
-## Chill dev trying to learn . . . 
 
 I'm a Full-Stack Developer with a B.Tech specialization in Artificial Intelligence & Machine Learning, currently focusing on building and exploring Agentic AI systems. I enjoy designing scalable backend architectures and crafting reliable, production-ready applications.
 
