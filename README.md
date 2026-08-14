@@ -1,88 +1,319 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1500" height="250">
+<div align="center">
 
-# Hi there, I'm Advitiya Arya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Advitiya%20Arya&fontSize=60&fontColor=E0D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Agentic%20AI%20%7C%20Backend%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-I'm a Full-Stack Developer with a B.Tech specialization in Artificial Intelligence & Machine Learning, currently focusing on building and exploring Agentic AI systems. I enjoy designing scalable backend architectures and crafting reliable, production-ready applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Architectures;Designing+Agentic+AI+Systems;Crafting+Production-Ready+Applications;Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
+</a>
 
-### 🛠️ Tech Stack
+<br/>
 
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![B.Tech AI & ML](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Based_in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Advitiyyaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advitiyyaaa)
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Advitiyyaaa&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Advitiyyaaa?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/Advitiyyaaa?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github)
 
-#### Authentication
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Authentication](https://img.shields.io/badge/Auth-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white)
+</div>
 
-#### APIs & Architecture
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-4B8BBE?style=for-the-badge&logo=clockify&logoColor=white)
+<br/>
 
-#### AI / Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Vector Database](https://img.shields.io/badge/Vector_DB-6E40C9?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4B4B?style=for-the-badge&logo=semanticweb&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-222222?style=for-the-badge&logo=probot&logoColor=white)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white)
-
-#### Cloud/Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-#### Tools/Platform
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/Compass-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
-![Judge0](https://img.shields.io/badge/Judge0-2C2C2C?style=for-the-badge&logo=code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/advitiyyaaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
 ---
 
-<div>
-  
-💻 **Currently working on:** Building scalable backend systems and exploring cloud technologies
+## 🪐 About Me
 
-🌱 **Always learning:** New frameworks, design patterns, and best practices
+<div align="center">
+<img src="https://img.shields.io/badge/-●%20SOFTWARE%20ENGINEER-1a1a2e?style=flat-square&color=8B5CF6" />
+<img src="https://img.shields.io/badge/-●%20AI%2FML%20ENGINEER-1a1a2e?style=flat-square&color=7C3AED" />
+<img src="https://img.shields.io/badge/-●%20FULL%20STACK%20DEVELOPER-1a1a2e?style=flat-square&color=6D28D9" />
+</div>
 
-⚡ **Fun fact:** I love solving algorithmic challenges on LeetCode!
+<br/>
+
+I'm a **Full-Stack Developer and AI/ML Engineer** with a B.Tech specialization in Artificial Intelligence & Machine Learning, focused on architecting **scalable, production-grade systems** at the intersection of backend engineering and agentic AI.
+
+My work centers on designing **resilient distributed backend architectures**, building **RAG pipelines and autonomous LLM agents**, and shipping **reliable, recruiter-ready product experiences** end-to-end — from database schema to deployment pipeline. I approach engineering with a **product mindset**: performance, security, and maintainability are never afterthoughts.
+
+```yaml
+Engineering Philosophy:
+  - Ship production-ready systems, not prototypes
+  - Design for scale from day one
+  - Security and observability are first-class citizens
+  - AI systems should be reliable, not just impressive in a demo
+```
+
+**🎯 Open To:** Software Engineering Roles · AI/ML Engineering Roles · Backend Engineering Internships · Open Source Collaboration · Freelance Full-Stack Projects
+
+---
+
+## 🧬 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+</p>
+
+![React Router](https://img.shields.io/badge/React_Router-1a1a2e?style=flat-square&logo=reactrouter&logoColor=CA4245)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1a2e?style=flat-square&logo=framer&logoColor=0055FF)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-1a1a2e?style=flat-square&logo=shadcnui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1a1a2e?style=flat-square&logo=daisyui&logoColor=5A0EF8)
+
+### Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+</p>
+
+![JWT](https://img.shields.io/badge/JWT_Auth-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=009688)
+![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-1a1a2e?style=flat-square&logo=clockify&logoColor=4B8BBE)
+
+### Cloud, DevOps & Tooling
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,postman,vscode,githubactions" />
+</p>
+
+![EC2](https://img.shields.io/badge/EC2-1a1a2e?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![Render](https://img.shields.io/badge/Render-1a1a2e?style=flat-square&logo=render&logoColor=46E3B7)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-1a1a2e?style=flat-square&logo=cloudinary&logoColor=3448C5)
+
+---
+
+## 🧠 AI / ML & Agentic Systems Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **LLM Agent Orchestration** | ⭐⭐⭐⭐⭐ | Multi-step autonomous agents using LangChain, tool-calling & memory management |
+| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | Chunking strategies, vector retrieval, hybrid search, re-ranking |
+| **Vector Databases** | ⭐⭐⭐⭐ | Embedding storage, similarity search, semantic indexing at scale |
+| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Structured outputs, few-shot design, chain-of-thought optimization |
+| **LLM API Integration** | ⭐⭐⭐⭐⭐ | OpenAI API, Gemini API, Hugging Face model deployment |
+| **ML Fundamentals** | ⭐⭐⭐⭐ | Model evaluation, dataset engineering via Kaggle & Jupyter/Colab |
 
 </div>
 
 ---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🤖 Agentic Research Assistant</b> — Autonomous multi-tool LLM agent</summary>
+
+<br/>
+
+An autonomous agent framework capable of planning multi-step research tasks, invoking external tools, and synthesizing structured outputs with persistent memory across sessions.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Node.js, LangChain, OpenAI API, MongoDB, Redis |
+| **Scale** | Handles concurrent multi-agent sessions with isolated context stores |
+| **Performance** | Sub-2s average tool-call latency with response streaming |
+| **Security** | Rate-limited API gateway, JWT-scoped tool access, sandboxed execution |
+| **Impact** | Reduced manual research workflows by automating multi-source synthesis |
+| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+
+Designed with a modular tool-registry pattern so new capabilities can be added without touching the core orchestration loop — built for extensibility and long-term maintainability.
+
+</details>
+
+<details>
+<summary><b>📚 RAG-Powered Knowledge Engine</b> — Semantic document Q&A platform</summary>
+
+<br/>
+
+A retrieval-augmented generation platform that ingests unstructured documents, builds a semantic vector index, and serves grounded, citation-backed answers.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python, LangChain, Vector DB, Express.js, React |
+| **Scale** | Indexes 100k+ document chunks with incremental re-indexing |
+| **Performance** | Hybrid dense + keyword retrieval for improved recall |
+| **Security** | Role-based document access, encrypted storage at rest |
+| **Impact** | Cut manual document lookup time significantly for end users |
+| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+
+Focused on minimizing hallucination through strict source-grounding and confidence-aware response filtering.
+
+</details>
+
+<details>
+<summary><b>🛒 Full-Stack MERN Commerce Platform</b> — Production-grade e-commerce system</summary>
+
+<br/>
+
+An end-to-end e-commerce application with real-time inventory sync, secure checkout, and an admin analytics dashboard.
+
+| Category | Detail |
+|---|---|
+| **Stack** | React, Redux, Node.js, Express.js, MongoDB, Cloudinary |
+| **Scale** | Modular microservice-ready backend with cron-based inventory jobs |
+| **Performance** | Optimized query indexing and Redis caching for high-traffic routes |
+| **Security** | JWT auth, input sanitization, rate limiting, RBAC |
+| **Impact** | Deployed as a fully functional production reference architecture |
+| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+
+Built with a strong emphasis on clean separation of concerns and CI-friendly project structure.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Full-Stack & AI Systems Developer**
+**Independent / Academic Projects** · *2023 — Present*
+
+Designing and shipping full-stack applications and AI-driven systems with a focus on backend reliability and agentic architecture.
+
+- Architected scalable REST APIs and database schemas for production-style applications
+- Built LangChain-based agentic pipelines integrating OpenAI and Gemini APIs
+- Implemented RAG pipelines with vector search for grounded LLM responses
+- Deployed full-stack applications across AWS EC2, Vercel, and Render
+- Collaborated on open-source contributions and algorithmic problem solving
+
+`Node.js` `React` `LangChain` `MongoDB` `AWS` `System Design`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 Academic Excellence | B.Tech specialization in AI & Machine Learning |
+| 🧩 Competitive Programming | Active problem solver across multiple coding platforms |
+| 🛠️ Project Portfolio | Multiple production-style full-stack & AI systems shipped |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Advitiyyaaa)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://auth.geeksforgeeks.org/user/Advitiyyaaa)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/Advitiyyaaa)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/Advitiyyaaa)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Advitiyyaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Advitiyyaaa&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advitiyyaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Advitiyyaaa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Advitiyyaaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="95%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Advitiyyaaa/Advitiyyaaa/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Agentic AI System Design
+  - Distributed Systems & System Design at Scale
+  - Vector Database Optimization
+
+Building:
+  - Production-grade RAG & LLM agent pipelines
+  - Scalable backend architectures with Node.js
+
+Exploring:
+  - Multi-agent orchestration frameworks
+  - Cloud-native deployment patterns on AWS
+
+Open To:
+  - Software Engineering Roles
+  - AI/ML Engineering Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advitiyyaaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Advitiyyaaa)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is not just logic — it's architecture, discipline, and craft."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+</div>
