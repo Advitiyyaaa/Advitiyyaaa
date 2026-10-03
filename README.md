@@ -1,27 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Advitiya%20Arya&fontSize=60&fontColor=E0D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Agentic%20AI%20%7C%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Advitiya%20Arya&fontSize=72&fontColor=E0D9FF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Production-Grade+Backend+Systems;Designing+Agentic+AI+%26+RAG+Pipelines;Published+Open-Source+npm+Library;Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=🚀+Building+Production-Grade+Backend+Systems;🧠+Designing+Agentic+AI+%26+RAG+Pipelines;📦+Published+Open-Source+npm+Library+%40ratekit%2Fcore;⚡+Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE AI & ML](https://img.shields.io/badge/B.Tech-CSE%20AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![4th Year](https://img.shields.io/badge/4th_Year-2025--2027-7C3AED?style=for-the-badge&labelColor=1a1a2e)
-![Bennett University](https://img.shields.io/badge/Bennett_University-Greater_Noida-4C1D95?style=for-the-badge&labelColor=1a1a2e)
-![CGPA](https://img.shields.io/badge/CGPA-8.82-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+<p>
+  <a href="https://www.linkedin.com/in/advitiyaarya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:advitiya.arya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Advitiyyaaa"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advitiyyaaa)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Advitiyyaaa&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Advitiyyaaa?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/Advitiyyaaa?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github)
+<p>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20ML%20Specialization-6D28D9?style=flat-square&labelColor=1a1a2e&logo=mortarboard&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/CGPA-8.82%20%2F%2010-8B5CF6?style=flat-square&labelColor=1a1a2e&logo=star&logoColor=A78BFA" />
+  <img src="https://komarev.com/ghpvc/?username=Advitiyyaaa&style=flat-square&color=7c3aed&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Advitiyyaaa?style=flat-square&color=6D28D9&labelColor=1a1a2e&logo=github&label=Followers" />
+</p>
 
 </div>
 
@@ -40,7 +38,7 @@
 
 <br/>
 
-I'm a **4th-year Full-Stack Developer and AI/ML Engineer** pursuing B.Tech in Computer Science (AI & ML Specialization) at **Bennett University** (CGPA: 8.82). I build **production-grade systems** — from published npm libraries to deployed agentic AI pipelines — with an emphasis on correctness, performance, and real measurable outcomes.
+I'm a **4th-year Full-Stack Developer and AI/ML Engineer** (B.Tech CSE, AI & ML Specialization · CGPA: 8.82). I build **production-grade systems** — from published npm libraries to deployed agentic AI pipelines — with a focus on correctness, measurable performance, and real-world impact.
 
 My work spans **LangGraph-orchestrated agentic systems** with self-critique loops, **distributed rate-limiting libraries** with atomic Redis operations, and **full-stack platforms** with clean layered architecture. I don't build demos — I ship things that work at scale.
 
