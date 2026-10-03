@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Advitiya%20Arya&fontSize=60&fontColor=E0D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Agentic%20AI%20%7C%20Backend%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Advitiya%20Arya&fontSize=60&fontColor=E0D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Agentic%20AI%20%7C%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Architectures;Designing+Agentic+AI+Systems;Crafting+Production-Ready+Applications;Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Production-Grade+Backend+Systems;Designing+Agentic+AI+%26+RAG+Pipelines;Published+Open-Source+npm+Library;Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech AI & ML](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Based_in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
+![B.Tech CSE AI & ML](https://img.shields.io/badge/B.Tech-CSE%20AI%20%26%20ML-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![4th Year](https://img.shields.io/badge/4th_Year-2025--2027-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+![Bennett University](https://img.shields.io/badge/Bennett_University-Greater_Noida-4C1D95?style=for-the-badge&labelColor=1a1a2e)
+![CGPA](https://img.shields.io/badge/CGPA-8.82-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Advitiyyaaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advitiyyaaa)
@@ -31,26 +32,27 @@
 ## 🪐 About Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/-●%20SOFTWARE%20ENGINEER-1a1a2e?style=flat-square&color=8B5CF6" />
-<img src="https://img.shields.io/badge/-●%20AI%2FML%20ENGINEER-1a1a2e?style=flat-square&color=7C3AED" />
-<img src="https://img.shields.io/badge/-●%20FULL%20STACK%20DEVELOPER-1a1a2e?style=flat-square&color=6D28D9" />
+<img src="https://img.shields.io/badge/-●%20FULL%20STACK%20DEVELOPER-1a1a2e?style=flat-square&color=8B5CF6" />
+<img src="https://img.shields.io/badge/-●%20AGENTIC%20AI%20ENGINEER-1a1a2e?style=flat-square&color=7C3AED" />
+<img src="https://img.shields.io/badge/-●%20SYSTEMS%20DESIGNER-1a1a2e?style=flat-square&color=6D28D9" />
+<img src="https://img.shields.io/badge/-●%20OPEN%20SOURCE%20AUTHOR-1a1a2e?style=flat-square&color=5B21B6" />
 </div>
 
 <br/>
 
-I'm a **Full-Stack Developer and AI/ML Engineer** with a B.Tech specialization in Artificial Intelligence & Machine Learning, focused on architecting **scalable, production-grade systems** at the intersection of backend engineering and agentic AI.
+I'm a **4th-year Full-Stack Developer and AI/ML Engineer** pursuing B.Tech in Computer Science (AI & ML Specialization) at **Bennett University** (CGPA: 8.82). I build **production-grade systems** — from published npm libraries to deployed agentic AI pipelines — with an emphasis on correctness, performance, and real measurable outcomes.
 
-My work centers on designing **resilient distributed backend architectures**, building **RAG pipelines and autonomous LLM agents**, and shipping **reliable, recruiter-ready product experiences** end-to-end — from database schema to deployment pipeline. I approach engineering with a **product mindset**: performance, security, and maintainability are never afterthoughts.
+My work spans **LangGraph-orchestrated agentic systems** with self-critique loops, **distributed rate-limiting libraries** with atomic Redis operations, and **full-stack platforms** with clean layered architecture. I don't build demos — I ship things that work at scale.
 
 ```yaml
 Engineering Philosophy:
   - Ship production-ready systems, not prototypes
-  - Design for scale from day one
-  - Security and observability are first-class citizens
-  - AI systems should be reliable, not just impressive in a demo
+  - Design for scale and correctness from day one
+  - Measure everything: latency, accuracy, memory footprint
+  - Open source as a first-class engineering artifact
 ```
 
-**🎯 Open To:** Software Engineering Roles · AI/ML Engineering Roles · Backend Engineering Internships · Open Source Collaboration · Freelance Full-Stack Projects
+**🎯 Open To:** Software Engineering Internships · Backend Engineering Roles · AI/ML Engineering Roles · Open Source Collaboration
 
 ---
 
@@ -63,31 +65,41 @@ Engineering Philosophy:
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css" />
 </p>
 
+![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
 ![React Router](https://img.shields.io/badge/React_Router-1a1a2e?style=flat-square&logo=reactrouter&logoColor=CA4245)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1a2e?style=flat-square&logo=framer&logoColor=0055FF)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-1a1a2e?style=flat-square&logo=shadcnui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-1a1a2e?style=flat-square&logo=daisyui&logoColor=5A0EF8)
 
 ### Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis,postgres" />
 </p>
 
 ![JWT](https://img.shields.io/badge/JWT_Auth-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=009688)
 ![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-1a1a2e?style=flat-square&logo=clockify&logoColor=4B8BBE)
 
+### AI / ML & Agentic Systems
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logo=python&logoColor=8B5CF6)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square&logo=python&logoColor=7C3AED)
+![RAGAS](https://img.shields.io/badge/RAGAS-1a1a2e?style=flat-square&logo=python&logoColor=6D28D9)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1a1a2e?style=flat-square&logo=google&logoColor=4285F4)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-1a1a2e?style=flat-square&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243)
+
 ### Cloud, DevOps & Tooling
 <p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,postman,vscode,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,postman,vscode" />
 </p>
 
-![EC2](https://img.shields.io/badge/EC2-1a1a2e?style=flat-square&logo=amazonec2&logoColor=FF9900)
 ![Render](https://img.shields.io/badge/Render-1a1a2e?style=flat-square&logo=render&logoColor=46E3B7)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-1a1a2e?style=flat-square&logo=cloudinary&logoColor=3448C5)
+![npm Publishing](https://img.shields.io/badge/npm_Publishing-1a1a2e?style=flat-square&logo=npm&logoColor=CB3837)
+![Turso](https://img.shields.io/badge/Turso_Cloud-1a1a2e?style=flat-square&logo=sqlite&logoColor=003B57)
+![Vitest](https://img.shields.io/badge/Vitest-1a1a2e?style=flat-square&logo=vitest&logoColor=6E9F18)
 
 ---
 
@@ -97,12 +109,12 @@ Engineering Philosophy:
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLM Agent Orchestration** | ⭐⭐⭐⭐⭐ | Multi-step autonomous agents using LangChain, tool-calling & memory management |
-| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | Chunking strategies, vector retrieval, hybrid search, re-ranking |
-| **Vector Databases** | ⭐⭐⭐⭐ | Embedding storage, similarity search, semantic indexing at scale |
-| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Structured outputs, few-shot design, chain-of-thought optimization |
-| **LLM API Integration** | ⭐⭐⭐⭐⭐ | OpenAI API, Gemini API, Hugging Face model deployment |
-| **ML Fundamentals** | ⭐⭐⭐⭐ | Model evaluation, dataset engineering via Kaggle & Jupyter/Colab |
+| **LangGraph State Machines** | ⭐⭐⭐⭐⭐ | DAG orchestration, self-critique retry loops, multi-agent routing |
+| **RAG Pipelines** | ⭐⭐⭐⭐⭐ | Hybrid retrieval (vector + BM25), RRF fusion, RAGAS evaluation |
+| **NL→SQL Systems** | ⭐⭐⭐⭐⭐ | 100% SQL execution accuracy, 95.7% routing accuracy on 550k-row DBs |
+| **Vector Databases** | ⭐⭐⭐⭐ | ChromaDB, semantic search, ONNX-optimized embeddings |
+| **LLM API Integration** | ⭐⭐⭐⭐⭐ | Gemini API, OpenAI API, Judge0, structured outputs |
+| **Prompt Engineering** | ⭐⭐⭐⭐ | Few-shot design, chain-of-thought, self-critique loops |
 
 </div>
 
@@ -111,115 +123,117 @@ Engineering Philosophy:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 Agentic Research Assistant</b> — Autonomous multi-tool LLM agent</summary>
+<summary><b>🧠 DataTell</b> — Agentic NL→SQL + RAG system on 550k-row dataset</summary>
 
 <br/>
 
-An autonomous agent framework capable of planning multi-step research tasks, invoking external tools, and synthesizing structured outputs with persistent memory across sessions.
+A production-grade agentic system that converts natural language into validated SQL queries and grounds answers through hybrid semantic retrieval — deployed end-to-end on cloud infrastructure.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Node.js, LangChain, OpenAI API, MongoDB, Redis |
-| **Scale** | Handles concurrent multi-agent sessions with isolated context stores |
-| **Performance** | Sub-2s average tool-call latency with response streaming |
-| **Security** | Rate-limited API gateway, JWT-scoped tool access, sandboxed execution |
-| **Impact** | Reduced manual research workflows by automating multi-source synthesis |
-| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+| **Stack** | Python, LangGraph, FastAPI, React, ChromaDB, SQLite, Turso Cloud, Vercel, Render |
+| **Scale** | 549,874-row production dataset (Turso Cloud) + Chroma Cloud vector store |
+| **Accuracy** | 100% SQL execution accuracy · 95.7% agent routing accuracy |
+| **Retrieval** | RAGAS faithfulness **0.97** · 100% source retrieval at **13–30ms** latency |
+| **Memory** | Replaced PyTorch with ONNX MiniLM: **~450MB → ~30MB** footprint |
+| **Architecture** | LangGraph DAG state machine with self-critique retry loop |
+| **Repository** | [github.com/Advitiyyaaa/DataTell](https://github.com/Advitiyyaaa/DataTell) |
 
-Designed with a modular tool-registry pattern so new capabilities can be added without touching the core orchestration loop — built for extensibility and long-term maintainability.
+Implemented hybrid retrieval using ChromaDB (vector index) + BM25 (inverted index) fused via Reciprocal Rank Fusion — minimizing hallucination through strict source-grounding and confidence-aware filtering.
 
 </details>
 
 <details>
-<summary><b>📚 RAG-Powered Knowledge Engine</b> — Semantic document Q&A platform</summary>
+<summary><b>📦 RateKit</b> — Published open-source TypeScript npm library</summary>
 
 <br/>
 
-A retrieval-augmented generation platform that ingests unstructured documents, builds a semantic vector index, and serves grounded, citation-backed answers.
+A zero-dependency TypeScript npm library implementing 5 rate-limiting algorithms behind a unified interface — designed for correctness, extensibility, and drop-in adoption in production systems.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Python, LangChain, Vector DB, Express.js, React |
-| **Scale** | Indexes 100k+ document chunks with incremental re-indexing |
-| **Performance** | Hybrid dense + keyword retrieval for improved recall |
-| **Security** | Role-based document access, encrypted storage at rest |
-| **Impact** | Cut manual document lookup time significantly for end users |
-| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+| **Stack** | TypeScript, Node.js, Redis, Vitest, npm |
+| **Package** | `@ratekit/core` — published to npm |
+| **Algorithms** | Token Bucket, Leaky Bucket, Fixed Window, Sliding Window Log, Sliding Window Counter |
+| **Performance** | O(1) amortised decision time per algorithm |
+| **Correctness** | 51-test Vitest suite covering concurrency edge cases & boundary precision |
+| **Distributed** | Redis Lua scripts (EVAL) for atomic check-and-increment — race-condition-free |
+| **Architecture** | Strategy-pattern storage abstraction (in-memory HashMap + Redis backends) |
+| **Repository** | [github.com/Advitiyyaaa/RateKit](https://github.com/Advitiyyaaa/RateKit) |
 
-Focused on minimizing hallucination through strict source-grounding and confidence-aware response filtering.
+Built with precision queue-based Leaky Bucket and Sliding Window patterns to bound request throughput in distributed systems where correctness under concurrency is non-negotiable.
 
 </details>
 
 <details>
-<summary><b>🛒 Full-Stack MERN Commerce Platform</b> — Production-grade e-commerce system</summary>
+<summary><b>⚡ HeavyCoderr</b> — Full-stack competitive programming platform</summary>
 
 <br/>
 
-An end-to-end e-commerce application with real-time inventory sync, secure checkout, and an admin analytics dashboard.
+A LeetCode-style coding platform with real-time sandboxed multi-language execution, AI-powered hints, and a graph-based problem dependency system — built for scale with a clean layered architecture.
 
 | Category | Detail |
 |---|---|
-| **Stack** | React, Redux, Node.js, Express.js, MongoDB, Cloudinary |
-| **Scale** | Modular microservice-ready backend with cron-based inventory jobs |
-| **Performance** | Optimized query indexing and Redis caching for high-traffic routes |
-| **Security** | JWT auth, input sanitization, rate limiting, RBAC |
-| **Impact** | Deployed as a fully functional production reference architecture |
-| **Repository** | [View Repository](https://github.com/Advitiyyaaa) |
+| **Stack** | Node.js, Express.js, MongoDB, React, Judge0 API, Gemini API, Cloudinary |
+| **Execution** | Real-time sandboxed code execution via Judge0 (Python, Java, C++, JavaScript) |
+| **AI Features** | AI-powered hints & chat powered by Gemini API |
+| **Scale** | 15+ modular REST API endpoints · 100+ problems with graph-based dependency system |
+| **Architecture** | Clean separation: execution service · user service · content service |
+| **Access Control** | Role-based access (RBAC) across all endpoints |
+| **Repository** | [github.com/Advitiyyaaa/Leetcode](https://github.com/Advitiyyaaa/Leetcode) |
 
-Built with a strong emphasis on clean separation of concerns and CI-friendly project structure.
+Designed a graph-based problem dependency system to suggest prerequisite problems, with HashMap-indexed tag filtering for O(1) category lookups across the problem catalog.
+
+</details>
+
+<details>
+<summary><b>🧺 Loondry</b> — Full-stack MERN laundry workflow automation platform</summary>
+
+<br/>
+
+A production-grade MERN platform that automates hostel laundry operations end-to-end — state-machine-driven slip lifecycle, real-time queue estimation, and Redis-backed auth infrastructure.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Node.js, Express.js, MongoDB, React, Redis, JavaScript, JWT |
+| **APIs** | 20+ REST API endpoints covering full slip lifecycle, complaint management, queue estimation |
+| **Auth** | JWT authentication with Redis-backed O(1) token invalidation |
+| **Reliability** | Cron-based auto-expiry of stale state transitions · RBAC across all roles |
+| **Architecture** | State-machine lifecycle: Pending → Processing → Ready → Collected |
+| **Repository** | [github.com/Advitiyyaaa/Loondry](https://github.com/Advitiyyaaa/Loondry) |
+
+Built with priority-queue scheduling for real-time queue estimation and a modular backend with clean separation of concerns across auth, business logic, and data layers.
 
 </details>
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-**Full-Stack & AI Systems Developer**
-**Independent / Academic Projects** · *2023 — Present*
+**Bennett University** · Greater Noida, Uttar Pradesh
+**B.Tech. in Computer Science & Engineering** *(AI & ML Specialization)*
+`Aug 2023 – May 2027` · **CGPA: 8.82** *(Up to 6th Sem)*
 
-Designing and shipping full-stack applications and AI-driven systems with a focus on backend reliability and agentic architecture.
-
-- Architected scalable REST APIs and database schemas for production-style applications
-- Built LangChain-based agentic pipelines integrating OpenAI and Gemini APIs
-- Implemented RAG pipelines with vector search for grounded LLM responses
-- Deployed full-stack applications across AWS EC2, Vercel, and Render
-- Collaborated on open-source contributions and algorithmic problem solving
-
-`Node.js` `React` `LangChain` `MongoDB` `AWS` `System Design`
+**Relevant Coursework:** Data Structures & Algorithms · Algorithm Design & Analysis · Operating Systems · DBMS · Object-Oriented Programming (C++) · Discrete Mathematics · Machine Learning · Deep Learning · NLP · Computer Vision
 
 ---
 
-## 🏆 Achievements
+## 🧰 Technical Skills
 
 <div align="center">
 
-| Recognition | Details |
+| Category | Skills |
 |---|---|
-| 🎓 Academic Excellence | B.Tech specialization in AI & Machine Learning |
-| 🧩 Competitive Programming | Active problem solver across multiple coding platforms |
-| 🛠️ Project Portfolio | Multiple production-style full-stack & AI systems shipped |
+| **Languages** | C++, JavaScript, TypeScript, Python, SQL, HTML/CSS |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs, MongoDB, Redis, PostgreSQL, JWT, Cron Jobs |
+| **Frontend** | React, Vite, Redux, React Router |
+| **AI & Data** | LangGraph, LangChain, ChromaDB, RAG, NL→SQL, RAGAS, Pandas, NumPy, Scikit-learn |
+| **Cloud & DevOps** | AWS (S3, Rekognition), Vercel, Render, Turso Cloud, Chroma Cloud, npm Publishing |
+| **Testing** | Vitest (Unit & Integration), Postman, Redis Lua Scripts |
+| **Developer Tools** | Git, GitHub, VS Code, Postman, MongoDB Compass |
+| **DSA** | Arrays, Linked Lists, Stacks, Queues, Trees, Heaps, HashMaps, Graphs, DP, Sliding Window |
 
 </div>
-
----
-
-## 📜 Certifications
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-1a1a2e?style=for-the-badge&logo=googlescholar&logoColor=8B5CF6)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -277,20 +291,20 @@ Designing and shipping full-stack applications and AI-driven systems with a focu
 
 ```yaml
 Learning:
-  - Advanced Agentic AI System Design
+  - Advanced Agentic AI System Design (LangGraph, multi-agent orchestration)
   - Distributed Systems & System Design at Scale
-  - Vector Database Optimization
+  - Vector Database Optimization & ONNX model compression
 
 Building:
   - Production-grade RAG & LLM agent pipelines
-  - Scalable backend architectures with Node.js
+  - Scalable backend systems with TypeScript / Node.js / FastAPI
 
 Exploring:
   - Multi-agent orchestration frameworks
-  - Cloud-native deployment patterns on AWS
+  - Cloud-native deployment patterns (Vercel, Render, Turso, AWS)
 
 Open To:
-  - Software Engineering Roles
+  - Software Engineering Internships
   - AI/ML Engineering Opportunities
   - Open Source Collaboration
 ```
@@ -304,7 +318,6 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advitiya.arya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiyaarya)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advitiyyaaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Advitiyyaaa)
 
 </div>
 
