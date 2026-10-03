@@ -34,7 +34,7 @@
 
 <br/>
 
-I'm a **4th-year Full-Stack Developer and AI/ML Engineer** (B.Tech CSE, AI & ML Specialization · CGPA: 8.82). I build **production-grade systems**, from published npm libraries to deployed agentic AI pipelines, with a focus on correctness, measurable performance, and real-world impact.
+I'm a **4th-year Full-Stack Developer and AI/ML Engineer** (B.Tech CSE, AI & ML Specialization · CGPA: 8.82). I build **production-grade systems** , from published npm libraries to deployed agentic AI pipelines, with a focus on correctness, measurable performance, and real-world impact.
 
 My work spans **LangGraph-orchestrated agentic systems** with self-critique loops, **distributed rate-limiting libraries** with atomic Redis operations, and **full-stack platforms** with clean layered architecture. I don't build demos, I ship things that work at scale.
 
