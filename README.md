@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Advitiya%20Arya&fontSize=72&fontColor=E0D9FF&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Advitiya%20Arya&fontSize=65&fontColor=E0D9FF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=🚀+Building+Production-Grade+Backend+Systems;🧠+Designing+Agentic+AI+%26+RAG+Pipelines;📦+Published+Open-Source+npm+Library+%40ratekit%2Fcore;⚡+Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=Building+Production-Grade+Backend+Systems;Designing+Agentic+AI+%26+RAG+Pipelines;Published+Open-Source+npm+Library+%40ratekit%2Fcore;Full-Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,12 +14,8 @@
   <a href="https://github.com/Advitiyyaaa"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20ML%20Specialization-6D28D9?style=flat-square&labelColor=1a1a2e&logo=mortarboard&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/CGPA-8.82%20%2F%2010-8B5CF6?style=flat-square&labelColor=1a1a2e&logo=star&logoColor=A78BFA" />
-  <img src="https://komarev.com/ghpvc/?username=Advitiyyaaa&style=flat-square&color=7c3aed&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Advitiyyaaa?style=flat-square&color=6D28D9&labelColor=1a1a2e&logo=github&label=Followers" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Advitiyyaaa&style=flat-square&color=7c3aed&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Advitiyyaaa?style=flat-square&color=6D28D9&labelColor=1a1a2e&logo=github&label=Followers)
 
 </div>
 
@@ -247,44 +243,6 @@ Built with priority-queue scheduling for real-time queue estimation and a modula
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Advitiyyaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Advitiyyaaa&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advitiyyaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Advitiyyaaa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Advitiyyaaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Advitiyyaaa/Advitiyyaaa/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
